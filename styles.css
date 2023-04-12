@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  color: darkblue;
 }
 
 body {
@@ -45,7 +46,7 @@ nav .menu-toggle {
 
 .fullscreen-image {
   height: 100vh;
-  background-image: url('lake.jpg');
+  background-image: url('logo.png');
   background-size: cover;
   background-position: center;
 }
